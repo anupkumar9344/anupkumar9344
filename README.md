@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anup Kumar</h1>
-<h3 align="center">A passionate frontend Developer and UI/UX Designer.</h3>
+<h3 align="center">A passionate fullstack Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupkumar9344&label=Profile%20views&color=0e75b6&style=flat" alt="anupkumar9344" /> </p>
 
