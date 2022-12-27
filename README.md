@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anupkumar9344" alt="anupkumar9344" /></a> </p>
 
-- 🔭 I’m currently working on Softomark Infotech Pvt. Ltd. **Medxcart**
+- 🔭 I’m currently working on **Softomark Infotech Pvt. Ltd**
 
-- 🌱 I’m currently learning **React and Flutter.**
+- 🌱 I’m currently learning **React and Laravel.**
 
 - 💬 Ask me about **HTML, CSS, Bootstrap and React.**
 
