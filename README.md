@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anup Kumar</h1>
 <h3 align="center">A Passionate Fullstack Developer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=anupkumar9344&label=Profile%20views&color=0e75b6&style=flat" alt="anupkumar9344" /> </p>
-
-<p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=anupkumar9344"><img src="https://github-profile-trophy.vercel.app/?username=anupkumar9344" alt="anupkumar9344" /></a>
-</p>
-
 - 🔭 I’m currently working at **Codezilla Technology & Consultancy Pvt. Ltd.**
 
 - 💬 Ask me about **PHP, Laravel, CodeIgniter, Django, WordPress, HTML, CSS, and React.**
