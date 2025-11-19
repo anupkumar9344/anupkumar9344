@@ -14,7 +14,7 @@
 
 📫 Reach out to me:
 - ✉️ anupkumar9344@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/anupkumar9344/) *(if available)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/anupkumar9344/)
 
 🛠️ Always eager to work on meaningful projects and collaborate with innovative teams.
 
